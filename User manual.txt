@@ -1,0 +1,24 @@
+Click on CompARTment to open app
+
+Importing library:
+	Program will only run if you install the controlP5 library
+
+How to import library:
+	On the top of the processing page click on sketch
+	From sketch, select import library option
+	Click on add library
+	Search up controlP5
+	Click on the library and press install
+
+	sketch>import library>add library> search up ControlP5
+
+
+How to access saved images:
+	After exiting the program, On the top of the processing page click on sketch
+	Then click on Show Sketch Folder
+	There you will see all your saved images as PNG files (do with them as you please)
+
+Note: When initially running the program, it may take a couple of seconds to load the screen as there is an animation 
+
+AND MOST IMPORTANTLY. HAVE FUN!!
+	
